@@ -1,0 +1,2 @@
+- Constructive issues and pull requests which hold value are always welcome.
+- Make sure to create an issue first before sending in a pull request.
